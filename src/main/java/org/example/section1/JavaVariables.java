@@ -1,4 +1,4 @@
-package org.example.variables;
+package org.example.section1;
 
 public class JavaVariables {
     public static void main(String[] args) {
